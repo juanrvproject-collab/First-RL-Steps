@@ -13,4 +13,5 @@ This model is based on Q-Learning & the Bellman's Ecuacion.
 
 
 
-Technical Deep Dive
+Technical Deep Dive:
+...
