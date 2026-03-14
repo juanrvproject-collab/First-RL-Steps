@@ -10,3 +10,7 @@ The creation of the environment was possible thanks to an copilotation of Gemini
 
 
 This model is based on Q-Learning & the Bellman's Ecuacion.
+
+
+
+Technical Deep Dive
